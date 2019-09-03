@@ -4,7 +4,7 @@
 ![swift-version](https://img.shields.io/badge/swift-4.2-Orange.svg)
 ![lisence](https://img.shields.io/badge/license-MIT-Lightgrey.svg)
 
-Search bar in a TableView with a filtering option
+Search bar in a TableView with a filtering option hyjy
 ___
 
 ## Side Note
