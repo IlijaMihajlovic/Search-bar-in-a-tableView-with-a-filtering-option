@@ -4,7 +4,7 @@
 ![swift-version](https://img.shields.io/badge/swift-4.2-Orange.svg)
 ![lisence](https://img.shields.io/badge/license-MIT-Lightgrey.svg)
 
-Search bar in a TableView with a filtering option 
+Project still in work. Search bar in a TableView with a filtering option 
 ___
 
 ## Side Note
